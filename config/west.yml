@@ -1,5 +1,5 @@
 manifest:
-  defaults:=
+  defaults:
     revision: v3.0
   remotes:
     - name: zmkfirmware
